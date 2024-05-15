@@ -1,3 +1,4 @@
 title: Becoming being
 baseurl: ""
 permalink: pretty
+remote_theme: pages-themes/minimal@v0.2.0
