@@ -27,8 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gsws.space" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: geewatt
-github_username:  gswwsg
-
+github_username: gswwsg
+ 
 # Build settings
 remote_theme: jekyll/minima
 plugins:
